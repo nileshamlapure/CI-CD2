@@ -1,6 +1,6 @@
 FROM python
 
-MAINTAINER jenkins@machine1
+MAINTAINER dahat.sagar@gmail.com
 
 ADD . /test
 
