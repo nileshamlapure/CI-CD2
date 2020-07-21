@@ -1,6 +1,6 @@
 FROM python
 
-MAINTAINER nilesh@github.com
+MAINTAINER nilesh@dockerhub
 
 ADD . /test
 
