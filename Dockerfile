@@ -1,6 +1,6 @@
 FROM python
 
-MAINTAINER sagar
+MAINTAINER nilesh@github.com
 
 ADD . /test
 
