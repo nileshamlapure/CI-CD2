@@ -1,6 +1,6 @@
 FROM python
 
-MAINTAINER nilesh@dockerhub
+MAINTAINER nilesh@docker-hub
 
 ADD . /test
 
